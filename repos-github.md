@@ -678,6 +678,7 @@
 - jordiolivares/scio-sparql
 - jpbnetley/Mongo-csv-importer
 - jsuereth/scala-arm
+- juliano/pokeapi-scala
 - justapagamentos/playframework-core
 - justinhj/fp-starter-pack.g8
 - jwt-scala/jwt-scala
